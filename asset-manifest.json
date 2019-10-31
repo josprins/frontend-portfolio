@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/frontend-portfolio/static/css/main.e6df4dcc.chunk.css",
+    "main.js": "/frontend-portfolio/static/js/main.2e455423.chunk.js",
+    "main.js.map": "/frontend-portfolio/static/js/main.2e455423.chunk.js.map",
+    "runtime-main.js": "/frontend-portfolio/static/js/runtime-main.0143b3fa.js",
+    "runtime-main.js.map": "/frontend-portfolio/static/js/runtime-main.0143b3fa.js.map",
+    "static/js/2.674fc246.chunk.js": "/frontend-portfolio/static/js/2.674fc246.chunk.js",
+    "static/js/2.674fc246.chunk.js.map": "/frontend-portfolio/static/js/2.674fc246.chunk.js.map",
+    "index.html": "/frontend-portfolio/index.html",
+    "precache-manifest.2b1dd89b9221c7a2dd22ab653daa7b6f.js": "/frontend-portfolio/precache-manifest.2b1dd89b9221c7a2dd22ab653daa7b6f.js",
+    "service-worker.js": "/frontend-portfolio/service-worker.js",
+    "static/css/main.e6df4dcc.chunk.css.map": "/frontend-portfolio/static/css/main.e6df4dcc.chunk.css.map",
+    "static/media/Results-Layout.png": "/frontend-portfolio/static/media/Results-Layout.1d33bbf9.png",
+    "static/media/calculator.png": "/frontend-portfolio/static/media/calculator.72294641.png",
+    "static/media/gameshowapp.png": "/frontend-portfolio/static/media/gameshowapp.7aeaad70.png",
+    "static/media/paradise.jpg": "/frontend-portfolio/static/media/paradise.9c87c354.jpg",
+    "static/media/signupform.png": "/frontend-portfolio/static/media/signupform.99ce0317.png",
+    "static/media/thisportfolio.png": "/frontend-portfolio/static/media/thisportfolio.01d8d6f7.png",
+    "static/media/todolist.png": "/frontend-portfolio/static/media/todolist.5ddd83e3.png",
+    "static/media/videoplayer.png": "/frontend-portfolio/static/media/videoplayer.0610ef6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0143b3fa.js",
+    "static/js/2.674fc246.chunk.js",
+    "static/css/main.e6df4dcc.chunk.css",
+    "static/js/main.2e455423.chunk.js"
+  ]
+}
