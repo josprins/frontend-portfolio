@@ -466,8 +466,8 @@ input:-webkit-autofill:active {
 }
 
 .container-div {
-  -webkit-animation: 2s ease-out 0s 1 transformY;
-          animation: 2s ease-out 0s 1 transformY;
+  -webkit-animation: 1s ease-out 0s 1 transformY;
+          animation: 1s ease-out 0s 1 transformY;
 }
 
 footer {
