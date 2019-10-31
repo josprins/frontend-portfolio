@@ -17,8 +17,8 @@ const InteractiveVideoPlayer = () => {
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://josprins.github.io/techdegree-project-6/">LIVE DEMO</a>
-                    <a href="https://github.com/josprins/techdegree-project-6"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://josprins.github.io/techdegree-project-6/" target="_blank">LIVE DEMO</a>
+                    <a href="https://github.com/josprins/techdegree-project-6" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />

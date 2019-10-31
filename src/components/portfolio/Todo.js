@@ -11,14 +11,14 @@ const Todo = () => {
                 <h1>Todo List App</h1>
                 <div className="portfolio-content">
                     <img src={require("../images/todolist.png")} alt=""/>
-                    <div className="content-div">
+                    <div className="content-text">
                         <p>For this project I've created a todo list app using React.</p>
                         <p>I had to handle props and state in order to share data between components and write functions to handle interaction with the app such as deleting or adding a todo. </p>
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://josprins.github.io/todo-deploy/">LIVE DEMO</a>
-                    <a href="https://github.com/josprins/todo"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://josprins.github.io/todo-deploy/" target="_blank">LIVE DEMO</a>
+                    <a href="https://github.com/josprins/todo" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />

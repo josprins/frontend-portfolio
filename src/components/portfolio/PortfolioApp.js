@@ -17,7 +17,7 @@ const PortfolioApp = () => {
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://github.com/josprins/portfolio"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://github.com/josprins/portfolio" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />

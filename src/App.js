@@ -20,10 +20,9 @@ import CalculatorApp from './components/portfolio/CalculatorApp';
 
 
 function App() {
-  
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="container-wrapper">
           <Route exact path="/" component={Home}/>
           <Route path='/contact' component={Contact}/>

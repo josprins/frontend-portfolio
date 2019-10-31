@@ -17,8 +17,8 @@ const ParallaxEffect = () => {
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://josprins.github.io/parallax">LIVE DEMO</a>
-                    <a href="https://github.com/josprins/parallax"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://josprins.github.io/parallax" target="_blank">LIVE DEMO</a>
+                    <a href="https://github.com/josprins/parallax" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />

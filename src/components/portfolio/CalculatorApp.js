@@ -17,8 +17,8 @@ const CalculatorApp = () => {
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://josprins.github.io/calculator/">LIVE DEMO</a>
-                    <a href="https://github.com/josprins/calculator"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://josprins.github.io/calculator/" target="_blank">LIVE DEMO</a>
+                    <a href="https://github.com/josprins/calculator" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />

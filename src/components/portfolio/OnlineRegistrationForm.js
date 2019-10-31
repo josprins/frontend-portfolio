@@ -17,8 +17,8 @@ const OnlineRegistrationForm = () => {
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://josprins.github.io/techdegree-project-three/">LIVE DEMO</a>
-                    <a href="https://github.com/josprins/techdegree-project-three"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://josprins.github.io/techdegree-project-three/" target="_blank">LIVE DEMO</a>
+                    <a href="https://github.com/josprins/techdegree-project-three" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />

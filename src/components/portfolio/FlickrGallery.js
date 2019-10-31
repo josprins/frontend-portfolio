@@ -18,8 +18,8 @@ const FlickrGallery = () => {
                     </div>
                 </div>
                 <div className="anchor-div">
-                    <a href="https://josprins.github.io/techdegree-project-11-deploy">LIVE DEMO</a>
-                    <a href="https://github.com/josprins/techdegree-project-11-deploy"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
+                    <a href="https://josprins.github.io/techdegree-project-11-deploy" target="_blank">LIVE DEMO</a>
+                    <a href="https://github.com/josprins/techdegree-project-11-deploy" target="_blank"><i className="fab fa-github"></i>GITHUB REPOSITORY</a>
                 </div>
             </div>
             <Footer />
