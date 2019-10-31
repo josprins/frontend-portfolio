@@ -445,9 +445,6 @@ input:-webkit-autofill:active {
   0% {
     opacity: 0;
   }
-  40% {
-    opacity: 0;
-  }
   100% {
     opacity: 1;
   }
@@ -457,17 +454,14 @@ input:-webkit-autofill:active {
   0% {
     opacity: 0;
   }
-  40% {
-    opacity: 0;
-  }
   100% {
     opacity: 1;
   }
 }
 
 .container-div {
-  -webkit-animation: 1s ease-out 0s 1 transformY;
-          animation: 1s ease-out 0s 1 transformY;
+  -webkit-animation: 2s ease-out 0s 1 transformY;
+          animation: 2s ease-out 0s 1 transformY;
 }
 
 footer {
